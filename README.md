@@ -98,5 +98,7 @@ MIT License – Use, modify, and share freely.
 🙋‍♀️ About the Creator
 Prathyusha Kopur
 🎓 B.E + PGDM | 🔍 Data Analyst | 🧠 Python + Streamlit Developer
+
 🌐 [LinkedIn](https://www.linkedin.com/in/prathyusha-kopur)  
+
 💻 [GitHub](https://github.com/usha1459)
